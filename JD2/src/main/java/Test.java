@@ -13,8 +13,6 @@ public class Test {
         //tt
         // dev feature fixed
         // --
-        // some development
-        // to chto zabil
     }
 }
 
