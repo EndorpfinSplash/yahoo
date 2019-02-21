@@ -7,13 +7,16 @@ public class Test {
         //2
         //3
         //4
-        //10
+        //10 hotfix 10
         //20
         //30 hotfix 22 + hotfix 23
         //tt
         // dev feature fixed
         // --
         // iss 54 !!!
+        // iss 60
+        // iss 70
+        String s70;
     }
 }
 
