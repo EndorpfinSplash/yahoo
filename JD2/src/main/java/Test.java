@@ -11,7 +11,7 @@ public class Test {
         //20
         //30
         //tt
-        // dev feature
+        // dev feature fixed
         // --
         // some development
         // to chto zabil
